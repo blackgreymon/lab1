@@ -1,5 +1,5 @@
 package com.ligstd.homework.calculators;
-//lala
+
 import com.ligstd.homework.models.SubItem;
 
 import java.util.ArrayList;
